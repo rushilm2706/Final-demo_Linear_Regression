@@ -33,7 +33,23 @@ Using this concept we can say that marriage age (response variable) relates to m
 
 Grandma, now we hope that you have a better understanding of Linear Regression, and feel more comfortable to understand that being single our age is cool, and it’s out of our control because it’s influenced by so many factors. Let’s hope Grandma won’t bug us with this question again. HAHA!
 
+Well we’ve seen how and when linear regression works right? Now, let's see where it doesn’t work. Some of the common problems with linear regression are:
 
+- Outliers: An outlier is a data point that is noticeably different from the rest. They represent errors in measurement, bad data collection, or simply show variables not considered when collecting the data.
+
+![Screenshot](fig2.png)
+- Only linear relationships are detected. If the data points are in a curve, the line cannot fit the data well.
+![Screenshot](fig3.png)
+- Extrapolation: When we use a regression line to predict a point whose x-value is outside the range of x-values of training data, it is called extrapolation.
+![Screenshot](fig4.png)
+
+When I learned that linear regression is still a widely used model, I was confused. Although it’s technically cool, there are way too many limitations to this model in the real world. The reason that it’s still used is ‘simplicity’. Linear Regression is so simple that if something is working or not working, we know what went right or wrong. We can understand exactly how the model is working. This might not be the case with a lot of other complex ML models. With linear regression, we can explain the behavior of the model very easily. All the results can easily be analyzed by looking at what predictors are impacting the target variable by what extent. 
+
+Plotting the results that we get is very important and this model is the easiest to explain to business customers. 
+Eg:
+![Screenshot](fig5.png)
+
+In conclusion, we can say that linear regression is just finding a linear relationship between your predictors and the target variable. Just draw a line that is nearest to the most data points and there you go, Regression!
 
 
 

@@ -16,3 +16,22 @@ Looking at these examples we thought of using linear regression to answer a very
 To explain our grandma the concept of linear regression, we would begin by showing her the below figure:
 
 ![Screenshot](Figure1.png)
+
+This is a good example to make anyone understand the linear regression concept as everyone knows that salary generally depends on the years of experience.
+
+**salary = β0 + β1(years of experience)**
+
+Here salary is the response variable and years of experience is the predictor variable.
+
+Now that grandma got a hang of basic linear regression we will walk her through Multiple Linear Regression and how it relates to the topic she cares a lot about, our marriage time.
+
+Multiple Linear Regression is a statistical technique that uses several explanatory variables (predictors) to predict the outcome of the response variable.
+
+Using this concept we can say that marriage age (response variable) relates to many factors (predictors), such as regions, education level, salary, parents and friends’ marriage age, and even COVID. So we can build up this MLR model like this:
+
+**Marriage_age = β0 + β1(education_level) + β2(salary) + β3(race) + β4(parents_marriage_age) + β5(COVID) + β6(region) + β7(friends_marriage_age)**
+
+Grandma, now we hope that you have a better understanding of Linear Regression, and feel more comfortable to understand that being single our age is cool, and it’s out of our control because it’s influenced by so many factors. Let’s hope Grandma won’t bug us with this question again. HAHA!
+
+
+

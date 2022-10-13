@@ -39,6 +39,7 @@ Well we’ve seen how and when linear regression works right? Now, let's see whe
 
 ![Screenshot](fig2.png)
 - Only linear relationships are detected. If the data points are in a curve, the line cannot fit the data well.
+
 ![Screenshot](fig3.png)
 - Extrapolation: When we use a regression line to predict a point whose x-value is outside the range of x-values of training data, it is called extrapolation.
 
@@ -48,6 +49,7 @@ When I learned that linear regression is still a widely used model, I was confus
 
 Plotting the results that we get is very important and this model is the easiest to explain to business customers. 
 Eg:
+
 ![Screenshot](fig5.png)
 
 In conclusion, we can say that linear regression is just finding a linear relationship between your predictors and the target variable. Just draw a line that is nearest to the most data points and there you go, Regression!

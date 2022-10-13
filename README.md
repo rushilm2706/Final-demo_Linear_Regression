@@ -14,3 +14,5 @@ Here the response variable is the performance of the player(points scored) and t
 
 Looking at these examples we thought of using linear regression to answer a very age old question which we get a lot from our relatives (especially grandparents): When are we getting married? We thought why not explain this using the linear regression model which can predict the age of getting married.
 To explain our grandma the concept of linear regression, we would begin by showing her the below figure:
+
+![Screenshot](Figure1.png)

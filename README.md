@@ -35,3 +35,15 @@ Grandma, now we hope that you have a better understanding of Linear Regression, 
 
 
 
+
+
+
+
+
+
+
+
+
+
+**References:**
+- https://www.statology.org/linear-regression-real-life-examples/

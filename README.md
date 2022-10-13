@@ -41,6 +41,7 @@ Well we’ve seen how and when linear regression works right? Now, let's see whe
 - Only linear relationships are detected. If the data points are in a curve, the line cannot fit the data well.
 ![Screenshot](fig3.png)
 - Extrapolation: When we use a regression line to predict a point whose x-value is outside the range of x-values of training data, it is called extrapolation.
+
 ![Screenshot](fig4.png)
 
 When I learned that linear regression is still a widely used model, I was confused. Although it’s technically cool, there are way too many limitations to this model in the real world. The reason that it’s still used is ‘simplicity’. Linear Regression is so simple that if something is working or not working, we know what went right or wrong. We can understand exactly how the model is working. This might not be the case with a lot of other complex ML models. With linear regression, we can explain the behavior of the model very easily. All the results can easily be analyzed by looking at what predictors are impacting the target variable by what extent. 

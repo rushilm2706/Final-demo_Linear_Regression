@@ -66,3 +66,7 @@ In conclusion, we can say that linear regression is just finding a linear relati
 
 **References:**
 - https://www.statology.org/linear-regression-real-life-examples/
+- https://www.slideshare.net/CodeOps/understanding-ml-through-memes-harsh-ccdays
+- https://seaborn.pydata.org/tutorial/regression.html
+- https://stats.stackexchange.com/questions/219579/what-is-wrong-with-extrapolation
+- https://medium.com/data-science-group-iitr/linear-regression-back-to-basics-e4819829d78b
